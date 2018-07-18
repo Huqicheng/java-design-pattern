@@ -29,7 +29,7 @@ Advantages
 	Provides control over steps of construction process.
 
 
-Disadvantages of the Builder pattern include:[3]
+Disadvantages
 
 	Requires creating a separate ConcreteBuilder for each different type of product.
 	Requires the builder classes to be mutable.
@@ -39,8 +39,8 @@ Disadvantages of the Builder pattern include:[3]
 
 
 ## Example
-[Class Diagram](https://en.wikipedia.org/wiki/File:Builder_UML_class_diagram.svg)
-[Sequence](https://en.wikipedia.org/wiki/File:W3sDesign_Builder_Design_Pattern_UML.jpg)
+![Class Diagram](https://en.wikipedia.org/wiki/File:Builder_UML_class_diagram.svg)
+![Sequence](https://en.wikipedia.org/wiki/File:W3sDesign_Builder_Design_Pattern_UML.jpg)
 ``` java
 /**
  * Represents the product created by the builder.

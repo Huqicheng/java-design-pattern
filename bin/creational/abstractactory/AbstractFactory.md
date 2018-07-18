@@ -31,7 +31,7 @@ It gives solution like,
 ## Pros & Cons
 
 ## Example
-[Class Diagram](https://en.wikipedia.org/wiki/File:Abstract_factory.svg)
+![Class Diagram](https://en.wikipedia.org/wiki/File:Abstract_factory.svg)
 
 ``` java
 public interface IButton {
