@@ -1,6 +1,8 @@
 package creational.builder;
 
 class Car {
+	
+	// two components that sould be created by the builder.
     private int wheels;
     private String color;
 

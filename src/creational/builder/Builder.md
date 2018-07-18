@@ -1,4 +1,4 @@
-Abstract Factory Pattern
+Builder Pattern
 =============================
 
 ## Definition
@@ -39,8 +39,8 @@ Disadvantages
 
 
 ## Example
-![Class Diagram](https://en.wikipedia.org/wiki/File:Builder_UML_class_diagram.svg)
-![Sequence](https://en.wikipedia.org/wiki/File:W3sDesign_Builder_Design_Pattern_UML.jpg)
+![Class Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Builder_UML_class_diagram.svg/500px-Builder_UML_class_diagram.svg.png)
+![Sequence](https://upload.wikimedia.org/wikipedia/commons/8/87/W3sDesign_Builder_Design_Pattern_UML.jpg)
 ``` java
 /**
  * Represents the product created by the builder.
