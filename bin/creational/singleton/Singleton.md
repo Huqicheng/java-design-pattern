@@ -29,7 +29,7 @@ Disadvantages
 
 
 ## Example
-![Class Diagram]()
+![Class Diagram](https://img-blog.csdn.net/20160809183726500?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 ``` java
 public class Singleton {
